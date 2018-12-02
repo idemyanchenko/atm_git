@@ -1,0 +1,8 @@
+#ignor .log files
+*.log
+#ignor .db files
+*.db
+#ignor "target" directory 
+target/
+#ignor "bin" directory 
+bin/
